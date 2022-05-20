@@ -1,5 +1,6 @@
 # vscode-portfolio
-
+Github Pages.
+Vercel
 
 ## Environment Variables
 
