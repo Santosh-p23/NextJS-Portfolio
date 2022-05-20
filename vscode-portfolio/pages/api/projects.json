@@ -1,0 +1,86 @@
+[{
+        "id": 1,
+        "name": "Sajha Aawaj",
+        "image": "/sajha-aawaj.svg",
+        "description": "An application for collection & validation of Nepali speech dataset. Also features ASR.",
+        "tags": ["react", "redux", "django", "pytorch", "material-ui", "postgres"],
+        "source_code": "https://github.com/Santosh-p23/sajha-aawaj",
+        "demo": "https://github.com/Santosh-p23/sajha-aawaj"
+    },
+
+    {
+        "id": 2,
+        "name": "Portfolio Website",
+        "image": "/react_icon.svg",
+        "description": "A developer-centric portfolio based on ReactJS",
+        "tags": ["next", "react", "css", "tailwind"],
+        "source_code": "https://github.com/Santosh-p23/Portfolio-page-ReactJs",
+        "demo": "http://santospangeni.com.np"
+    },
+    {
+        "id": 3,
+        "name": "Faculty Publication Management System",
+        "image": "/django.svg",
+        "description": "A web application for a faculty publication management system",
+        "tags": ["react", "redux", "rest", "django", "bootstrap", "postgreSQL"],
+        "source_code": "https://github.com/Santosh-p23/REST-REACT-FPMS",
+        "demo": "http://rest-react-fpms.herokuapp.com/"
+    },
+
+    {
+        "id": 4,
+        "name": "Online Shopping Application",
+        "image": "/js_icon.svg",
+        "description": "A web application for online shopping with NodeJS and ExpressJS",
+        "tags": ["node", "express", "javascript", "mongoDB"],
+        "source_code": "https://github.com/Santosh-p23/shopping-store-web-app"
+    },
+    {
+        "id": 5,
+        "name": "Knight's Tour Game",
+        "image": "/qt.svg",
+        "description": "An implementation of the knight's tour problem using recursion and data structures with Warnsdroff algorithm.",
+        "tags": ["C++", "Qt", "data structures", "Warnsdroff algorithm"],
+        "demo": "https://github.com/Santosh-p23/Data-Structure-Knights-Tour"
+    },
+    {
+        "id": 6,
+        "name": "Social Media API",
+        "image": "/js_icon.svg",
+        "description": "A backend API for social media application using NodeJS and ExpressJS",
+        "tags": ["node", "express", "javascript", "mongoDB"],
+        "source_code": "https://github.com/Santosh-p23/SocialMedia-Api"
+    },
+
+    {
+        "id": 7,
+        "name": "Tekken SFML",
+        "image": "/sfml-fight.png",
+        "description": "A 2D fighting game built with C++ and SFML. Has both single and multiplayer modes.",
+        "tags": ["SFML", "C++", "OOP"],
+        "source_code": "https://github.com/Santosh-p23/tekken-proj-sfml"
+    },
+
+    {
+        "id": 8,
+        "name": "Madlibs in C",
+        "image": "/C-madlibs.svg",
+        "description": "A C program that generates a madlibs story from user input.",
+        "tags": ["C"],
+        "source_code": "https://github.com/Santosh-p23/Madlibs-in-C"
+    },
+
+    {
+        "id": 9,
+        "name": "Bunch of Unity Games",
+        "image": "/unity.svg",
+        "description": "Followed tutorials on youtube to build a bunch of games in Unity. Check out my github for more.",
+        "tags": ["C#", "Unity3D"],
+        "source_code": "https://github.com/Santosh-p23/"
+    }
+
+
+
+
+
+]
